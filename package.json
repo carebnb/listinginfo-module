@@ -64,7 +64,7 @@
     "husky": "^2.3.0",
     "jest": "^24.7.1",
     "jest-enzyme": "^7.0.2",
-    "lint-staged": "^8.1.7",
+    "lint-staged": "^13.1.0",
     "pre-commit": "^1.2.2",
     "puppeteer": "^1.16.0",
     "style-loader": "^0.23.1",
